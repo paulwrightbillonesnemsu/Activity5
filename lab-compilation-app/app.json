@@ -1,0 +1,21 @@
+{
+  "expo": {
+    "name": "Lab Compilation App",
+    "slug": "lab-compilation-app",
+    "version": "1.0.0",
+    "orientation": "default",
+    "userInterfaceStyle": "automatic",
+    "splash": {
+      "backgroundColor": "#4F46E5"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#4F46E5"
+      }
+    },
+    "web": {}
+  }
+}
